@@ -6,10 +6,13 @@
 Sphinx_example documentation!
 ================================================================
 
+This is the description of this website. Just an example website for the tutorial.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+   summary
    code
 
 
