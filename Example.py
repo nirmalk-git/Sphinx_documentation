@@ -23,4 +23,4 @@ def division(arg1, arg2):
     :rtype:
     """
     div = arg1/arg2
-    return div 
+    return div

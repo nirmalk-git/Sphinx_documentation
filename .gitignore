@@ -1,1 +1,3 @@
 .idea/
+sphinx/_build
+venv
